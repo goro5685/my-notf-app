@@ -149,7 +149,7 @@ input, label{
 .btnReceive input{
   padding: 12px 16px;
   margin-top: 20px;
-  background: #495e57;
+  background: #a6c011;
   color: #fff;
   border: none;
   border-radius: 4px;
@@ -310,4 +310,8 @@ footer ul li{
 
 .hidden{
   display: none;
+}
+.booking-section {
+
+background-color: #495E57;
 }
